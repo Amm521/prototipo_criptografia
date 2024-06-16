@@ -31,5 +31,7 @@ Bootstrap: Framework para crear elementos estilizados en sitios web.
 ## Resultado
 
 <div>
-  <img src="prototipo.png">
+  <img src="prototipo.png"
+    width=20%
+     height=auto>
 </div>

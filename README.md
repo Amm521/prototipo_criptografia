@@ -26,3 +26,10 @@ Bootstrap: Framework para crear elementos estilizados en sitios web.
 - Tomamos como base el HTML del sitio web de Sigue al Congreso, lo estilizamos usando Bootstrap para que la página web luzca lo más parecida posible. De nuevo usando Bootstrap creamos un botón debajo del acceso al archivo que buscamos válidar y asignamos una variable para recibir información.
 
 - Por último usando Flask conectamos el botón con la función que creamos en python, haciendo que esta se active al presionarlo, y regresa a la variable que creamos en el html una cadena de texto que indica si el archivo es el original, si sufrió algún cambio o si hubo algún error.
+
+
+## Resultado
+
+<div>
+  <img src="prototipo.png">
+</div>

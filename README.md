@@ -1,5 +1,5 @@
 # Prototipo de criptografia para Sigue al Congreso
-Autores: [Alfredo Murillo Madrigal](https://www.linkedin.com/in/alfredomurillomadrigal/), [Juan Pablo Bernal Lafarga](https://www.linkedin.com/in/juan-pablo-bernal-lafarga-7b9942232/), [Francelio Uriel Rodríguez García](https://linkedin.com/in/franceliouriel/), [Juan Pablo Valenzuela Dorado](https://www.linkedin.com/in/juan-pablo-valenzuela-dorado-5763b6250/)
+Autores: [Alfredo Murillo Madrigal](https://www.linkedin.com/in/alfredomurillomadrigal/), [Juan Pablo Bernal Lafarga](https://www.linkedin.com/in/juan-pablo-bernal-lafarga-7b9942232/), [Francelio Uriel Rodríguez García](https://linkedin.com/in/franceliouriel/), [Juan Pablo Valenzuela Dorado](https://www.linkedin.com/in/juan-pablo-valenzuela-dorado-5763b6250/).
 
 Validación de datos integrada en el sitio web de siguealcongreso.org usando Flask, Python, bootstrap y HTML.
 
